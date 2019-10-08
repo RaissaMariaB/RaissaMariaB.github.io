@@ -32,3 +32,17 @@ nav a:hover {
     color: #7E459B;
     font-size: 1.2rem;
 }
+
+i{
+    font-size: 30px;
+}
+
+.tamanho-card{
+    width: 18rem;
+}
+
+.imagem-card{
+    height: 40vh;
+    object-fit: cover;
+    object-position: top;
+}
